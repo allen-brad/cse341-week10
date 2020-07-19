@@ -1,0 +1,17 @@
+{
+  "name": "week10-prove",
+  "version": "1.0.0",
+  "description": "Week 10 Prove",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brad R. Allen",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "epxress": "0.0.1-security",
+    "express": "^4.17.1",
+    "pg": "^8.3.0"
+  }
+}
